@@ -30,7 +30,7 @@ moveY = (input_down - input_up) * spd;
 // COLLISION CHECKS - SOLIDS
 // Horizontal
 if (moveX != 0) {
-	if (place_meeting(moveX, y, oSolidParent)) {
+	if (place_meeting(x+moveX, y, oSolidParent)) {
 		repeat (abs(moveX)) {
 			if (!place_meeting(x+sign(moveX), y, oSolidParent)) { y += sign(moveX);}
 			else { break; }
