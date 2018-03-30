@@ -53,4 +53,6 @@ if (moveY != 0) {
 // APPLY MOVEMENT
 x += moveX;
 y += moveY;
+
+
 	

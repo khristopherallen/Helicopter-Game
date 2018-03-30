@@ -231,11 +231,27 @@
             }
         },
         {
+            "Key": "ed76eb4c-2ea0-4317-8932-ec36fb911e2e",
+            "Value": {
+                "id": "97445351-4caf-4832-9b23-7e8efc2cc90b",
+                "resourcePath": "objects\\oHelicopterCollision\\oHelicopterCollision.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "f0aadbda-719b-4931-b667-bdecec105b0e",
             "Value": {
                 "id": "101eb734-ec07-4193-b894-492bc4c473aa",
                 "resourcePath": "views\\f0aadbda-719b-4931-b667-bdecec105b0e.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "f16bd9a2-e54f-4192-bbab-7919a47913c3",
+            "Value": {
+                "id": "7a2b29b1-d2c6-4697-aa7f-e7ec9e20c7cd",
+                "resourcePath": "objects\\oGame\\oGame.yy",
+                "resourceType": "GMObject"
             }
         }
     ],

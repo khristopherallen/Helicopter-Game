@@ -11,7 +11,8 @@
         "22d2e9ec-ce8c-4b2a-8ff7-70f3b6e6e5e5",
         "6df9a6c0-b932-4bd8-8d86-748a8ed6c13b",
         "42f6451b-2141-401f-8674-c25e434d47bd",
-        "fdced276-9638-4602-8256-c4746d4d44dc"
+        "fdced276-9638-4602-8256-c4746d4d44dc",
+        "7e44b9ae-fad3-4e79-ba04-8b5204bd8bc2"
     ],
     "IsDnD": false,
     "layers": [
@@ -46,7 +47,7 @@
         },
         {
             "__type": "GMRInstanceLayer_Model:#YoYoStudio.MVCFormat",
-            "name": "Instances",
+            "name": "Helicopter",
             "id": "e3cb187c-7e4e-4890-8b59-2de7809936c2",
             "depth": 100,
             "grid_x": 16,
@@ -269,13 +270,39 @@
             "y": 0
         },
         {
+            "__type": "GMRInstanceLayer_Model:#YoYoStudio.MVCFormat",
+            "name": "Other",
+            "id": "2a4ca745-c74f-4e30-8a52-a97eb2c182e4",
+            "depth": 400,
+            "grid_x": 16,
+            "grid_y": 16,
+            "hierarchyFrozen": false,
+            "hierarchyVisible": true,
+            "inheritLayerDepth": false,
+            "inheritLayerSettings": false,
+            "inheritSubLayers": false,
+            "inheritVisibility": false,
+            "instances": [
+{"name": "inst_60235BC6","id": "7e44b9ae-fad3-4e79-ba04-8b5204bd8bc2","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_60235BC6","objId": "f16bd9a2-e54f-4192-bbab-7919a47913c3","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.0","x": 0,"y": -64}
+            ],
+            "layers": [
+
+            ],
+            "m_parentID": "00000000-0000-0000-0000-000000000000",
+            "m_serialiseFrozen": false,
+            "modelName": "GMRInstanceLayer",
+            "mvc": "1.0",
+            "userdefined_depth": false,
+            "visible": true
+        },
+        {
             "__type": "GMRBackgroundLayer_Model:#YoYoStudio.MVCFormat",
             "name": "Background",
             "id": "4554740e-68b0-43fb-ad02-b110198af4ee",
             "animationFPS": 15,
             "animationSpeedType": "0",
             "colour": { "Value": 4278190080 },
-            "depth": 400,
+            "depth": 500,
             "grid_x": 16,
             "grid_y": 16,
             "hierarchyFrozen": false,

@@ -9,8 +9,8 @@ moveRight = false;
 moveLeft = false;
 moveX = 0;
 movement = 8;
-ammo = 6;
-bulletX = 18;
-bulletY = 6;
-shootSpeed = 15;
-fireGun = true;
+angle = 0;
+rspeed = 5;
+pointdir = 0;
+
+instance_create_layer(x, y, "Helicopter", oHelicopterCollision);
