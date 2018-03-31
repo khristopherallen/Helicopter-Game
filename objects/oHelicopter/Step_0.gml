@@ -16,7 +16,28 @@ if (input_walk or input_run) {
 	spd = abs((input_walk * w_spd) - (input_run * r_spd));
 } else {
 	spd = n_spd;
+	if (input_up){
+		accel += .1;
+		accel = clamp(accel,-2,2);
+		speed = clamp(speed+accel, -5, 5);
+	} else if (input_down){
+		accel -= .1;
+		accel = clamp(accel,-2,2);
+		speed = clamp(speed+accel, -5, 5);
+	}
+	else{		
+		speed += -sign(speed)*.1;
+		accel += -sign(speed)*.1;
+		accel = clamp(accel,-2,2);
+		if (abs(speed)<.2){
+			speed = 0;	
+			accel = 0;
+		}
+	}
 }
+
+direction += (input_left-input_right)*n_spd;
+
 
 // RESET MOVE VARIABLES
 moveX = 0;
@@ -51,8 +72,8 @@ if (moveY != 0) {
 }
 
 // APPLY MOVEMENT
-x += moveX;
-y += moveY;
+//x += moveX;
+//y += moveY;
 
 
 	
