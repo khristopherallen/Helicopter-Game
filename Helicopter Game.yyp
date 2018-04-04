@@ -79,6 +79,14 @@
             }
         },
         {
+            "Key": "6d3797e9-103f-4467-bcf1-36ac5c6c658c",
+            "Value": {
+                "id": "0b620742-350d-4229-933b-b90b0439932d",
+                "resourcePath": "sprites\\sLandingPad\\sLandingPad.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "6fcecbe8-8e7c-4030-a7c8-3bb172eb3411",
             "Value": {
                 "id": "bd5a1c2e-e828-4e09-8f5c-544c4a617865",
@@ -100,6 +108,14 @@
                 "id": "963d9f23-5f0e-433e-a765-e924dd40fcd8",
                 "resourcePath": "views\\8ede909c-de28-4b66-8d3f-8766f259d954.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "9b4c9bd9-1f7b-4981-a51a-b9b17ee53f9f",
+            "Value": {
+                "id": "1c02fb17-09bc-4ae7-baaf-1fb435a50195",
+                "resourcePath": "objects\\oLandingPad\\oLandingPad.yy",
+                "resourceType": "GMObject"
             }
         },
         {
