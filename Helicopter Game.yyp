@@ -71,6 +71,22 @@
             }
         },
         {
+            "Key": "4b819aa5-00be-4c06-bc3d-38008b2d9153",
+            "Value": {
+                "id": "13bb5eb7-cec7-4aba-9227-4832aa633daa",
+                "resourcePath": "fonts\\fPixel\\fPixel.yy",
+                "resourceType": "GMFont"
+            }
+        },
+        {
+            "Key": "54f5735c-59e8-41bc-8524-4790f483cd4c",
+            "Value": {
+                "id": "55e046b2-e087-42af-bed8-460d2bab3b12",
+                "resourcePath": "objects\\oGarageShop\\oGarageShop.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "6ccb44ba-9d63-4b09-ae36-c5c8ecc1f9dd",
             "Value": {
                 "id": "04408bdb-d255-4fb7-9b08-6cd9b33ddd47",
@@ -175,6 +191,14 @@
             }
         },
         {
+            "Key": "b25b976b-4621-4e1d-87b9-e73102aa3fbc",
+            "Value": {
+                "id": "0719436a-3885-447c-aee2-03d3e3312fd3",
+                "resourcePath": "sprites\\sGarageSign\\sGarageSign.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "b977cb27-e59a-4491-a292-335a6cfbd3e4",
             "Value": {
                 "id": "7a7a4ac7-ad54-4c07-89d1-d397017e0d39",
@@ -188,6 +212,14 @@
                 "id": "a0ea8604-295d-4c02-b416-c8ee54eef9d7",
                 "resourcePath": "views\\c1403aae-58eb-452c-9be7-2837938a73c8.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "c67e980a-b182-4225-8d16-41d2345dd55b",
+            "Value": {
+                "id": "8baf00dd-efa3-40c2-92d4-f256492744f0",
+                "resourcePath": "objects\\oGarageSign\\oGarageSign.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -234,7 +266,7 @@
             "Key": "e7815d4b-0627-415d-a909-7d39fdaec164",
             "Value": {
                 "id": "790a2062-1451-4b77-b5e6-d3780555aef0",
-                "resourcePath": "rooms\\room0\\room0.yy",
+                "resourcePath": "rooms\\rTown\\rTown.yy",
                 "resourceType": "GMRoom"
             }
         },
@@ -247,10 +279,10 @@
             }
         },
         {
-            "Key": "ed76eb4c-2ea0-4317-8932-ec36fb911e2e",
+            "Key": "eb498581-08e6-4286-b5ca-64077d32a7ca",
             "Value": {
-                "id": "97445351-4caf-4832-9b23-7e8efc2cc90b",
-                "resourcePath": "objects\\oHelicopterCollision\\oHelicopterCollision.yy",
+                "id": "d04fd620-fc65-4d87-9a5e-ec42f7bcea18",
+                "resourcePath": "objects\\oHelicopterGarage\\oHelicopterGarage.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -268,6 +300,14 @@
                 "id": "7a2b29b1-d2c6-4697-aa7f-e7ec9e20c7cd",
                 "resourcePath": "objects\\oGame\\oGame.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "f84e95d4-7b3e-41b3-a0bd-aec66f76ce65",
+            "Value": {
+                "id": "b725bef0-18be-4ba1-bd8d-662218674d6a",
+                "resourcePath": "rooms\\rGarage\\rGarage.yy",
+                "resourceType": "GMRoom"
             }
         }
     ],

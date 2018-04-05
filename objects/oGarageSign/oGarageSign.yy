@@ -1,12 +1,21 @@
 {
-    "id": "ed76eb4c-2ea0-4317-8932-ec36fb911e2e",
+    "id": "c67e980a-b182-4225-8d16-41d2345dd55b",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "oHelicopterCollision",
+    "name": "oGarageSign",
     "eventList": [
-        
+        {
+            "id": "6b66be5c-08eb-4460-ada2-ed50f991e118",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 8,
+            "m_owner": "c67e980a-b182-4225-8d16-41d2345dd55b"
+        }
     ],
-    "maskSpriteId": "e9925e18-be78-4167-869c-8c12a02979d5",
+    "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
     "parentObjectId": "00000000-0000-0000-0000-000000000000",
     "persistent": false,
@@ -24,6 +33,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "00000000-0000-0000-0000-000000000000",
+    "spriteId": "b25b976b-4621-4e1d-87b9-e73102aa3fbc",
     "visible": true
 }

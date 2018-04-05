@@ -1,6 +1,6 @@
 
 {
-    "name": "room0",
+    "name": "rTown",
     "id": "e7815d4b-0627-415d-a909-7d39fdaec164",
     "creationCodeFile": "",
     "inheritCode": false,
@@ -381,7 +381,7 @@
     },
     "mvc": "1.0",
     "views": [
-{"id": "6489e9f9-15ce-479b-9425-21b1962d327b","hborder": 256,"hport": 1024,"hspeed": -1,"hview": 512,"inherit": false,"modelName": "GMRView","objId": "2889d262-ca1e-4782-a5cc-cddb901b1e6d","mvc": "1.0","vborder": 256,"visible": true,"vspeed": -1,"wport": 1024,"wview": 512,"xport": 0,"xview": 0,"yport": 0,"yview": 0},
+{"id": "6489e9f9-15ce-479b-9425-21b1962d327b","hborder": 256,"hport": 768,"hspeed": -1,"hview": 384,"inherit": false,"modelName": "GMRView","objId": "2889d262-ca1e-4782-a5cc-cddb901b1e6d","mvc": "1.0","vborder": 256,"visible": true,"vspeed": -1,"wport": 1024,"wview": 512,"xport": 0,"xview": 0,"yport": 0,"yview": 0},
 {"id": "f14306ac-23a4-4a3c-9af6-a88f694f6a8c","hborder": 32,"hport": 768,"hspeed": -1,"hview": 768,"inherit": false,"modelName": "GMRView","objId": "00000000-0000-0000-0000-000000000000","mvc": "1.0","vborder": 32,"visible": false,"vspeed": -1,"wport": 1024,"wview": 1024,"xport": 0,"xview": 0,"yport": 0,"yview": 0},
 {"id": "847238a3-09bd-4156-815b-3e2a96c4ecd8","hborder": 32,"hport": 768,"hspeed": -1,"hview": 768,"inherit": false,"modelName": "GMRView","objId": "00000000-0000-0000-0000-000000000000","mvc": "1.0","vborder": 32,"visible": false,"vspeed": -1,"wport": 1024,"wview": 1024,"xport": 0,"xview": 0,"yport": 0,"yview": 0},
 {"id": "4714a281-bffb-43ad-9882-2f498abb9f06","hborder": 32,"hport": 768,"hspeed": -1,"hview": 768,"inherit": false,"modelName": "GMRView","objId": "00000000-0000-0000-0000-000000000000","mvc": "1.0","vborder": 32,"visible": false,"vspeed": -1,"wport": 1024,"wview": 1024,"xport": 0,"xview": 0,"yport": 0,"yview": 0},

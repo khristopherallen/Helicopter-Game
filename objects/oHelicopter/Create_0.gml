@@ -14,5 +14,3 @@ rspeed = 5;
 pointdir = 0;
 accel = 0;
 accelSpd = 0.05;
-
-instance_create_layer(x, y, "Helicopter", oHelicopterCollision);
