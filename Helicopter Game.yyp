@@ -31,6 +31,22 @@
     },
     "resources": [
         {
+            "Key": "0e5cd1a5-de5b-4627-8823-efc1ebd9ae9a",
+            "Value": {
+                "id": "be76677e-f8d8-49ff-9677-fbe75cf960bb",
+                "resourcePath": "objects\\oGarageShopColor\\oGarageShopColor.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "0ffe07d9-aa15-4dd2-872a-cdd6844e77ef",
+            "Value": {
+                "id": "b5dbc044-12ba-4964-a284-4fdf0610bd54",
+                "resourcePath": "objects\\oShopButtonColor\\oShopButtonColor.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "2019e7f1-d40b-4217-8aa3-0295f9457114",
             "Value": {
                 "id": "d8645ddd-4abe-4467-b6d9-90c7c8298389",
@@ -111,6 +127,22 @@
             }
         },
         {
+            "Key": "7439fc1d-1957-43c9-bb84-e22c5100edc7",
+            "Value": {
+                "id": "78141ba2-cb90-4896-8954-14a64578b608",
+                "resourcePath": "sprites\\sShopButtonColor\\sShopButtonColor.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "786a2366-9db1-4996-b80f-031ea80985a0",
+            "Value": {
+                "id": "2444dea5-98ff-4207-be5f-a66f3aee32b3",
+                "resourcePath": "views\\786a2366-9db1-4996-b80f-031ea80985a0.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "7ac97ec9-9de8-4b01-a9a4-a966ecd6cd4e",
             "Value": {
                 "id": "448ec99d-6fd9-43ab-95c5-f6335b9be04f",
@@ -156,6 +188,14 @@
                 "id": "dfd8fd43-2068-4d9b-8e00-63f6782e5bcf",
                 "resourcePath": "views\\a184c1f2-31c8-426c-af08-99f6cf38b706.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "a84e1fdf-96bc-4ada-8e5c-50f8018f31ee",
+            "Value": {
+                "id": "96c69664-6127-41d9-8f04-161afa3674aa",
+                "resourcePath": "sprites\\sHelicopterColors\\sHelicopterColors.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -211,6 +251,14 @@
             "Value": {
                 "id": "a0ea8604-295d-4c02-b416-c8ee54eef9d7",
                 "resourcePath": "views\\c1403aae-58eb-452c-9be7-2837938a73c8.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "c54284f4-7830-4d23-a073-e90df2d0ab37",
+            "Value": {
+                "id": "84fb4278-d8ba-4cb8-b584-8c43da08ac92",
+                "resourcePath": "views\\c54284f4-7830-4d23-a073-e90df2d0ab37.yy",
                 "resourceType": "GMFolder"
             }
         },
@@ -303,11 +351,27 @@
             }
         },
         {
+            "Key": "f78ebeea-3552-4f9f-9dbc-9df88137bceb",
+            "Value": {
+                "id": "4576917e-1cf9-47b8-a00e-22810f6e82a0",
+                "resourcePath": "views\\f78ebeea-3552-4f9f-9dbc-9df88137bceb.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "f84e95d4-7b3e-41b3-a0bd-aec66f76ce65",
             "Value": {
                 "id": "b725bef0-18be-4ba1-bd8d-662218674d6a",
                 "resourcePath": "rooms\\rGarage\\rGarage.yy",
                 "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "f9ab82a4-b4ca-45d5-9266-0f2e7c5b4511",
+            "Value": {
+                "id": "618d13c7-35b6-4faf-8231-19f28234b05a",
+                "resourcePath": "views\\f9ab82a4-b4ca-45d5-9266-0f2e7c5b4511.yy",
+                "resourceType": "GMFolder"
             }
         }
     ],

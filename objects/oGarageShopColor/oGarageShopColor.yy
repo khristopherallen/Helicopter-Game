@@ -1,28 +1,28 @@
 {
-    "id": "eb498581-08e6-4286-b5ca-64077d32a7ca",
+    "id": "0e5cd1a5-de5b-4627-8823-efc1ebd9ae9a",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "oHelicopterGarage",
+    "name": "oGarageShopColor",
     "eventList": [
         {
-            "id": "b99ba3ad-4b2b-4a85-9907-dcee8ed54613",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 0,
-            "m_owner": "eb498581-08e6-4286-b5ca-64077d32a7ca"
-        },
-        {
-            "id": "aefab901-24d0-4d7a-b896-7b76e6c65a92",
+            "id": "42718909-c6e9-468e-a2e4-5b9559396a39",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 8,
-            "m_owner": "eb498581-08e6-4286-b5ca-64077d32a7ca"
+            "m_owner": "0e5cd1a5-de5b-4627-8823-efc1ebd9ae9a"
+        },
+        {
+            "id": "763d0684-3caa-4736-99c4-b34c61dca61a",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 0,
+            "m_owner": "0e5cd1a5-de5b-4627-8823-efc1ebd9ae9a"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -43,6 +43,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "e9925e18-be78-4167-869c-8c12a02979d5",
+    "spriteId": "00000000-0000-0000-0000-000000000000",
     "visible": true
 }
