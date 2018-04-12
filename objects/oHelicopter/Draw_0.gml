@@ -7,5 +7,7 @@
 
 angle = direction;
 
-draw_sprite_ext(sHelicopter, color, x, y, image_xscale, image_yscale, angle, image_blend, image_alpha);
+draw_sprite_ext(sHelicopterColors, oGame.color, x, y, image_xscale, image_yscale, angle, image_blend, image_alpha);
+draw_sprite_ext(sHelicopterBlades, 0, x, y, image_xscale, image_yscale, angle, image_blend, image_alpha);
+
 

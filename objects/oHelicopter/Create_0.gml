@@ -15,6 +15,5 @@ pointdir = 0;
 accel = 0;
 accelSpd = 0.05;
 maxSpeed = 5;
-color = 0;
 canMove = true;
 

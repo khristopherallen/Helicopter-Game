@@ -1,2 +1,2 @@
 /// @description  
-oHelicopterGarage.color = image_index;
+oGame.color = image_index;

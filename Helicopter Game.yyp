@@ -95,6 +95,14 @@
             }
         },
         {
+            "Key": "5446a12a-9b40-4f35-98a8-4b0ade5cadd2",
+            "Value": {
+                "id": "861a0a03-b1b4-48b2-9f26-5f3445707e0e",
+                "resourcePath": "objects\\oWarehouse\\oWarehouse.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "54f5735c-59e8-41bc-8524-4790f483cd4c",
             "Value": {
                 "id": "55e046b2-e087-42af-bed8-460d2bab3b12",
@@ -195,6 +203,14 @@
             "Value": {
                 "id": "96c69664-6127-41d9-8f04-161afa3674aa",
                 "resourcePath": "sprites\\sHelicopterColors\\sHelicopterColors.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "a94a1db3-31e8-407b-9ec2-8c7756ed30b4",
+            "Value": {
+                "id": "1dcf4037-375a-411e-86dd-e8fc4722f815",
+                "resourcePath": "sprites\\sHelicopterBlades\\sHelicopterBlades.yy",
                 "resourceType": "GMSprite"
             }
         },
