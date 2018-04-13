@@ -38,3 +38,6 @@ if (canMove) {
 		speed = 0;
 	}
 }
+
+// STORAGE
+storage = clamp(storage, 0, maxStorage);

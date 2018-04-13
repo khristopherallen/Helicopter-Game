@@ -71,6 +71,14 @@
             }
         },
         {
+            "Key": "393e6055-2647-4d92-a0e8-a950f7e8f76d",
+            "Value": {
+                "id": "456f5c4e-9b1c-43f2-abc7-46ca564f6490",
+                "resourcePath": "objects\\oDropoffLocation\\oDropoffLocation.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "3f8ca3b2-ab6c-4fe3-8da6-e983378b016d",
             "Value": {
                 "id": "c4c1211a-f128-4098-bf5b-4ad5332e455b",

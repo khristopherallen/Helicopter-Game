@@ -16,4 +16,6 @@ accel = 0;
 accelSpd = 0.05;
 maxSpeed = 5;
 canMove = true;
+maxStorage = 20;
+storage = 0;
 

@@ -6,4 +6,4 @@ draw_set_valign(fa_middle);
 
 color = 0;
 
-	oHelicopter.color = color;
+randomise();
