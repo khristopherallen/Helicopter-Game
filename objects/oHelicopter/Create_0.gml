@@ -18,4 +18,4 @@ maxSpeed = 5;
 canMove = true;
 maxStorage = 20;
 storage = 0;
-
+bladeAngle = 0;
