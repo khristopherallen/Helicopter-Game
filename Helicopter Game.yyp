@@ -207,6 +207,14 @@
             }
         },
         {
+            "Key": "95e5ad76-2103-4de3-b211-c242ac152aef",
+            "Value": {
+                "id": "fb58d46a-8792-428f-9736-7169ac5e6e72",
+                "resourcePath": "views\\95e5ad76-2103-4de3-b211-c242ac152aef.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "9b4c9bd9-1f7b-4981-a51a-b9b17ee53f9f",
             "Value": {
                 "id": "1c02fb17-09bc-4ae7-baaf-1fb435a50195",
@@ -236,6 +244,14 @@
                 "id": "dfd8fd43-2068-4d9b-8e00-63f6782e5bcf",
                 "resourcePath": "views\\a184c1f2-31c8-426c-af08-99f6cf38b706.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "a7c284eb-921e-4eb2-89f4-f5c4064650fa",
+            "Value": {
+                "id": "8608d5c8-0089-4a9b-8dd6-cf57188a8ae1",
+                "resourcePath": "tilesets\\tsDecorations\\tsDecorations.yy",
+                "resourceType": "GMTileSet"
             }
         },
         {
@@ -420,6 +436,14 @@
                 "id": "101eb734-ec07-4193-b894-492bc4c473aa",
                 "resourcePath": "views\\f0aadbda-719b-4931-b667-bdecec105b0e.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "f16ba1ab-429e-4392-89da-0bb05a66738a",
+            "Value": {
+                "id": "a89fa3b5-bbdb-46f4-9a90-e5c79f0c65bc",
+                "resourcePath": "sprites\\sDecorations\\sDecorations.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
